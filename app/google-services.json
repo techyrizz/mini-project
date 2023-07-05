@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "20546333079",
+    "project_id": "the-banzoapp",
+    "storage_bucket": "the-banzoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20546333079:android:3d152a58c0b00017453cd2",
+        "android_client_info": {
+          "package_name": "com.example.banzo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20546333079-htuk27lrpmn5o1p98ifr07cr8hj8gm5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF1EcruGJ3pvkHv3qMDfZ5lVW_M2B83-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20546333079-htuk27lrpmn5o1p98ifr07cr8hj8gm5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
